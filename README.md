@@ -284,7 +284,7 @@ plt.title("Feature importance using Lasso Model")
 
 plt.show()
 
-#OUTPUT
+# OUTPUT
 ![image](https://github.com/vidhyasrikachapalayam/Ex-07-Feature-Selection/assets/119477817/76632172-d84e-4c5f-8da8-d8530c6121d6)
 
 ![image](https://github.com/vidhyasrikachapalayam/Ex-07-Feature-Selection/assets/119477817/74cbaffb-d3e5-45b9-b2b1-27febe4f1dfe)
@@ -319,8 +319,9 @@ plt.show()
 ![image](https://github.com/vidhyasrikachapalayam/Ex-07-Feature-Selection/assets/119477817/6c8d914f-674a-4f43-9b6e-0ab53cdf500d)
 ![image](https://github.com/vidhyasrikachapalayam/Ex-07-Feature-Selection/assets/119477817/4ca49749-4a8a-4ecb-88b2-e6b30411304c)
 
-#RESULT
+# RESULT
 
+The various feature selection techniques has been performed on a dataset
 
 
 
